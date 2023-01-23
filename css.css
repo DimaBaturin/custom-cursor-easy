@@ -40,5 +40,7 @@ body{
     justify-content: center;
 }
 .hello{
-
+    mix-blend-mode: difference;
+    color: white;
+ font-family: Poppins;
 }
